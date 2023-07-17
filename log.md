@@ -2,7 +2,8 @@
 
 ### Day 1: July 17, 2023
 
-**Today's Progress**: - Revise Tree, and Binary Tree concepts. Write a Java program to create a binary tree and traverse it in Pre-order.
+**Today's Progress**: 
+- Revise Tree, and Binary Tree concepts. Write a Java program to create a binary tree and traverse it in Pre-order.
 - fixed the alignment using CSS and collaborate to update the e-commerce site.
 
 **Link to work:** [Binary tree creation](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/binaryTreeCreation.java)
