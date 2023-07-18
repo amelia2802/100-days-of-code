@@ -7,3 +7,11 @@
 - fixed the alignment using CSS and collaborate to update the e-commerce site.
 
 **Link to work:** [Binary tree creation](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/binaryTreeCreation.java)
+
+### Day 2: July 18, 2023
+
+**Today's Progress**: 
+- Write a Java program to traverse a binary tree in Level-order.
+- Redesign developer portfolio.
+
+**Link to work:** [Binary tree creation](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/levelOrderTraversal.java)
