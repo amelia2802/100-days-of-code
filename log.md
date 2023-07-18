@@ -14,4 +14,4 @@
 - Write a Java program to traverse a binary tree in Level-order.
 - Redesign developer portfolio.
 
-**Link to work:** [Binary tree creation](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/levelOrderTraversal.java)
+**Link to work:** [Level order traversal](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/levelOrderTraversal.java)
