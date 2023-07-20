@@ -25,3 +25,13 @@
 - Write a python programme to encrypt message in Ceaser Cipher method.
 
 **Link to work:** [Tree traversal](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/treeTraversal.java)
+
+### Day 4: July 19, 2023
+
+**Today's Progress**: 
+- Write a Java program to traverse a binary tree using
+     - Inorder Traversal
+     - Postorder Traversal 
+- Write a python programme to encrypt message in Ceaser Cipher method.
+
+**Link to work:** [Tree traversal](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/treeTraversal.
