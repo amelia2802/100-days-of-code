@@ -22,7 +22,7 @@
 - Write a Java program to traverse a binary tree using
      - Inorder Traversal
      - Postorder Traversal 
-- Write a python program to encrypt messages in the Ceaser Cipher method.
+- Write a Python program to encrypt messages in the Ceaser Cipher method.
 
 **Link to work:** [Tree traversal](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/treeTraversal.java)
 
@@ -33,4 +33,4 @@
 - Write a Java program to count the leaf nodes.
 - Write a Java program to calculate the height of the tree.
 
-**Link to work:** [Tree operations](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/Readme.md.
+**Link to work:** [Tree operations](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/Readme.md)
