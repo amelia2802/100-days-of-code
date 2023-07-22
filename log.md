@@ -34,3 +34,12 @@
 - Write a Java program to calculate the height of the tree.
 
 **Link to work:** [Tree operations](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/Readme.md)
+
+### Day 5: July 22, 2023
+
+**Today's Progress**: 
+- Write a Java program to calculate the diameter of a tree
+     - Approach #1: By using recursion and the height of the tree      
+- Contributed to a gaming repository by creating a guessing game using javascript.
+
+**Link to work:** [Tree operations](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/Readme.md)
