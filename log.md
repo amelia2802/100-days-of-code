@@ -4,7 +4,7 @@
 
 **Today's Progress**: 
 - Revise Tree, and Binary Tree concepts. Write a Java program to create a binary tree and traverse it in Pre-order.
-- fixed the alignment using CSS and collaborate to update the e-commerce site.
+- fixed the alignment using CSS and collaborated to update the e-commerce site.
 
 **Link to work:** [Binary tree creation](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/binaryTreeCreation.java)
 
@@ -22,16 +22,15 @@
 - Write a Java program to traverse a binary tree using
      - Inorder Traversal
      - Postorder Traversal 
-- Write a python programme to encrypt message in Ceaser Cipher method.
+- Write a python program to encrypt messages in the Ceaser Cipher method.
 
 **Link to work:** [Tree traversal](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/treeTraversal.java)
 
-### Day 4: July 19, 2023
+### Day 4: July 21, 2023
 
 **Today's Progress**: 
-- Write a Java program to traverse a binary tree using
-     - Inorder Traversal
-     - Postorder Traversal 
-- Write a python programme to encrypt message in Ceaser Cipher method.
+- Write a Java program to build a tree using level order
+- Write a Java program to count the leaf nodes.
+- Write a Java program to calculate the height of the tree.
 
-**Link to work:** [Tree traversal](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/treeTraversal.
+**Link to work:** [Tree operations](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/Readme.md.
