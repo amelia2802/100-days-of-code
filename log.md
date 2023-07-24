@@ -54,3 +54,14 @@
 
 **Link to work:** [Tree operations](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/Readme.md)
 
+### Day 7: July 24, 2023
+
+**Today's Progress**: 
+- Write a Java program to calculate the diameter of a tree
+     - Approach #2: By creating a Pair<Integer, Integer> class to store the height and diameter of each node simultaneously and return the maximum depth      
+- [Implement a function that returns a string with N characters, the ith of which is the answer that should give for the question i in order to get it wrong.](https://www.metacareers.com/profile/coding_puzzles/?puzzle=1082217288848574)
+- [Calculate the probability that the cell hit by your shot contains a battleship. The function should return this probability with an absolute or relative error of at most 10^-6](https://www.metacareers.com/profile/coding_puzzles/?puzzle=3641006936004915) 
+
+**Link to work:** [Tree operations](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/Readme.md)
+
+
