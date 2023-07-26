@@ -63,4 +63,11 @@
 
 **Link to work:** [Tree operations](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/Readme.md)
 
+### Day 8: July 26, 2023
+
+**Today's Progress**: 
+- Write a Java program to determine if Two Trees are Identical
+     
+**Link to work:** [Tree operations](https://github.com/amelia2802/Coding-Practice/blob/master/Trees/Readme.md)
+
 
